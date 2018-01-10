@@ -45,7 +45,7 @@ Dopo l'installazione, connettersi all'istanza di SQL Server nel computer Linux. 
 | Strumento | Esercitazione |
 |-----|-----|
 | Codice di Visual Studio (codice di Visual Studio) | [Usare il codice di Visual Studio con SQL Server in Linux](sql-server-linux-develop-use-vscode.md) |
-| SQL Server Management Studio (SSMS) | [Utilizzare SQL Server Management Studio in Windows per connettersi a SQL Server in Linux](sql-server-linux-develop-use-ssms.md) |
+| SQL Server Management Studio (SSMSd) | [Utilizzare SQL Server Management Studio in Windows per connettersi a SQL Server in Linux](sql-server-linux-develop-use-ssms.md) |
 | SQL Server Data Tools (SSDT) | [Usare SSDT con SQL Server in Linux](sql-server-linux-develop-use-ssdt.md) |
 
 ## <a name="explore"></a>Esplora
